@@ -25,7 +25,7 @@ SECRET_KEY = 'gl@b-clms@au&*)!mfr$ho2@1+_%&xo6d@qku*&a$3#zlq0&cb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'gparsons.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'parsons.pythonanywhere.com']
 
 
 # Application definition
